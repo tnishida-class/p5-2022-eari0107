@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(128,128);
+  createCanvas(200,200);
 }
 
 function draw() {
@@ -12,5 +12,5 @@ function draw() {
   fill(255);
   textSize(32);
   textFont("serif");
-  text("46", 68, 100);
+  text("45", 68, 100);
 }
